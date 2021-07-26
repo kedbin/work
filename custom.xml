@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CrossFire culture-info="en-US" platform-version="2.70.0" product-version="2.70.0">
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <Disabled>False</Disabled>
+    <FirstName>fsn1</FirstName>
+    <LastName>lsn1</LastName>
+    <Text1>Amazon</Text1>
+    <Text2>YYZ14</Text2>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.Credential ImportMode="Default">
+      <CardNumber>230897</CardNumber>
+      <CHUIDFormatKey>Card-Facility-Issue [[$$Default$$]]</CHUIDFormatKey>
+      <Disabled>False</Disabled>
+      <ExpirationDateTime>7/7/2026 9:19:00 AM</ExpirationDateTime>
+      <FacilityCode>2143</FacilityCode>
+      <Lost>False</Lost>
+      <Stolen>False</Stolen>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.Credential>
+<SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+<ClearanceKey>AL-BASEBUILDING PERIMETER DOORS-24/7 [[GWL]]</ClearanceKey>
+</SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+<SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+<ClearanceKey>AL-BREM DD 24TH FLOOR CL [[BREM]]</ClearanceKey>
+</SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+<SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+<ClearanceKey>AL-BREM DD 25TH FLOOR CL [[BREM]]</ClearanceKey>
+</SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+<SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+<ClearanceKey>AL-BREM DD 26TH FLOOR CL [[BREM]]</ClearanceKey>
+</SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+<SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+<ClearanceKey>AL-BREM DD 27TH FLOOR CL [[BREM]]</ClearanceKey>
+</SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+<SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+<ClearanceKey>AL-BREM DD 28TH FLOOR CL [[BREM]]</ClearanceKey>
+</SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+</SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+</CrossFire>
