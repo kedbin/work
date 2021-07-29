@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CrossFire culture-info="en-US" platform-version="2.70.0" product-version="2.70.0">
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <Disabled>False</Disabled>
+    <FirstName>fsn1</FirstName>
+    <LastName>lsn1</LastName>
+    <Text1>PWC</Text1>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.Credential ImportMode="Default">
+      <CardNumber>230897</CardNumber>
+      <CHUIDFormatKey>Card-Facility-Issue [[$$Default$$]]</CHUIDFormatKey>
+      <Disabled>False</Disabled>
+      <ExpirationDateTime>7/7/2026 9:19:00 AM</ExpirationDateTime>
+      <FacilityCode>2928</FacilityCode>
+      <Lost>False</Lost>
+      <Stolen>False</Stolen>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.Credential>
+<SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+<ClearanceKey>AL-BASEBUILDING PERIMETER DOORS-24/7 [[GWL]]</ClearanceKey>
+</SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+<SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+<ClearanceKey>E-PWC PASSENGER ELEVATOR ACCESS-24/7 [[$$Default$$]]</ClearanceKey>
+</SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+</SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+</CrossFire>
