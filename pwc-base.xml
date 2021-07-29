@@ -5,6 +5,7 @@
     <FirstName>fsn1</FirstName>
     <LastName>lsn1</LastName>
     <Text1>PWC</Text1>
+    <Text2> </Text2>
     <SoftwareHouse.NextGen.Common.SecurityObjects.Credential ImportMode="Default">
       <CardNumber>230897</CardNumber>
       <CHUIDFormatKey>Card-Facility-Issue [[$$Default$$]]</CHUIDFormatKey>
