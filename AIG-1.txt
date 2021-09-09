@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CrossFire culture-info="en-US" platform-version="2.70.0" product-version="2.70.0">
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>test</FirstName>
+    <LastName>wann</LastName>
+    <Text1>AIG</Text1>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.Credential ImportMode="Default">
+      <CardNumber>230897</CardNumber>
+      <CHUIDFormatKey>Card-Facility-Issue [[$$Default$$]]</CHUIDFormatKey>
+      <FacilityCode>388</FacilityCode>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.Credential>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>AL-BASEBUILDING PERIMETER DOORS-24/7 [[GWL]]</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair> 
+   <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>AL-BREM DD 20TH FLOOR CL [[BREM]]</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair> 
+   <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>AL-BREM DD 21ST FLOOR CL [[BREM]]</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair> 
+   <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>AL-BREM 20th Suite 2030 CL [[BREM]]</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair> 
+   <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default"> 
+      <ClearanceKey>AL-BREM DD 22ND FLOOR CL [[BREM]]</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair> 
+   <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>AL-BREM-AIG STAIRS DOORS [[BREM]]</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair> 
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+</CrossFire>
