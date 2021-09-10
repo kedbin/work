@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <CrossFire culture-info="en-US" platform-version="2.70.0" product-version="2.70.0">
   <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
-    <FirstName>test</FirstName>
-    <LastName>wann</LastName>
+    <FirstName>fsn1</FirstName>
+    <LastName>lsn1</LastName>
     <Text1>AIG</Text1>
     <SoftwareHouse.NextGen.Common.SecurityObjects.Credential ImportMode="Default">
       <CardNumber>230897</CardNumber>
